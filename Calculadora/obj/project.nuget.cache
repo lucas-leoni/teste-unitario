@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DU9qqyMVfsS/fnQVfgiNDv2mVe5DxUY5IajlcRyACEe5ipsEVObe4d83/DiXYVglzPPD7JMa67SpsP51okvzuw==",
+  "dgSpecHash": "/PrMYCKHNY5sM/GRO6J5IY5DNb88+ZAE/S0Fi2RWFTmHjb8KNgvK8vbAY35urMXkSbTj+sV3oHhUeO0TAGP1jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\Calculadora.csproj",
+  "projectFilePath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

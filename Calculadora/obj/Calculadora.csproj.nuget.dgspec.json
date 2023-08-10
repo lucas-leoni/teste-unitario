@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\lucas.leoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\TESTES\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\lucas.leoni\\programacao\\jovem-programador\\teste-unitario\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
